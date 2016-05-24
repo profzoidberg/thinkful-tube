@@ -1,0 +1,27 @@
+html {
+  	box-sizing: border-box;
+}
+*, *:before, *:after {
+ 	box-sizing: inherit;
+}
+body {
+	background-color: #d3d3d3;
+}
+header {
+	margin-top: 1em;
+	text-align: center;
+	font-size: 3em;
+	font-style: bold;
+	font-family: 'Megrim', cursive;
+}
+form {
+	text-align: center;
+	margin-top: 4em;
+}
+#search-results {
+	text-align: center;
+	margin-top: 1em;
+}
+#search-results p {
+	font-family: 'Ubuntu', sans-serif;
+}
